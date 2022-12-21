@@ -17,7 +17,6 @@ for pizza in favorite_pizzas:
 favorite_pizzas = ['pepperoni', 'cheese', 'vegetarian']
 for pizza in favorite_pizzas:
     print("I love " + pizza.title() + " pizza!")
-    print(pizza.title() + " pizza is very tasty!")
 
 # - Add a line at the end of your program, outside the for
 #   loop, that states how much you like pizza. The output
