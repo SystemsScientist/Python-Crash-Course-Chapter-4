@@ -2,7 +2,8 @@
 # program uses a for loop to print a list of names
 # of magicians
 #
-# program also includes an unnecessary indentation
+# program also includes an unnecessary indentation,
+# which produces a logical error
 #
 
 magicians = ['alice', 'david', 'carolina']
