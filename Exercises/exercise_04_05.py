@@ -1,4 +1,4 @@
-# exercise_04_05.py, Chapter 5, Python Crash Course
+# exercise_04_05.py, Chapter 4, Python Crash Course
 #
 # Summing a Million: Make a list of the numbers from one 
 # to one million, and then use min() and max() to make
