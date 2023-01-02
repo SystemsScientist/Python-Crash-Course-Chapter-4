@@ -5,7 +5,7 @@
 # a version of foods.py, and write two for loops to print each
 # list of foods.
 
-# Reference on foods2.py
+# Reference foods2.py in the Examples directory
 
 my_foods = ['pizza', 'falafel', 'carrot cake']
 friend_foods = my_foods[:]
